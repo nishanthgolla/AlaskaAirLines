@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>airPortCode</key>
+	<string>This will Store the airport code you previously search</string>
+	<key>isAppRunningFirstTime</key>
+	<true/>
+	<key>terminate</key>
+	<date>2017-02-27T21:43:47Z</date>
+</dict>
+</plist>
